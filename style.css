@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav-bar{
+    height: 30px;
+    width: 1500px;
+    margin-left: 120px;
+    margin-right: 387px;
+   /* background-color: rgb(148, 148, 170); */
+    display: flex;
+    justify-content: space-evenly;
+}
+.ul-class{
+    display: flex;
+    align-items: center;
+   /* margin-left: 500px; */
+}
+a{
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+   
+li{
+    list-style-type: none;
+    
+}
+.logo{
+    height: 30px;
+    width: 136px;
+    background-image: url("shake\ logo.png");
+    margin-right: 720px;
+}
+a:hover{
+    color: #FF9604;
+}
+.hero-section{
+  
+    height: 794px;
+    
+
+    
+    
+}
+.right-sidebar{
+    float: right;
+    
+    
+}
+.left-sidebar{
+    float: left;
+    width: 500px;
+    height: 594px;
+    /* background-color: #FF9604; */
+    margin-top: 200px;
+    margin-left: 100px;
+}
+h1{
+    font-size: 120px;
+    font-family: 'Quicksand';
+    
+}
+.order{
+    height: 121px;
+    width: 500px;
+    font-size: 20px;
+    background-color: #FF9604;
+    
+}
+/*.hero-para{
+    width: 500px;
+    height: 121px;
+    
+    
+}
+  */
+.para1{
+    height:121px ; 
+    width: 500px;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    
+}  
+img-1{
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+/* .btn{
+    width: 200px;
+    height: 60px;
+    background-color: #FF9604;
+    font-size: 15px;
+    font-family: 'Quicksand';
+    border-radius: 10px;
+} */
+.btn{
+    appearance: none;
+  background-color: #FFFFFF;
+  border-radius: 40em;
+  border-style: none;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -.24px;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.3rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  transition: all .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  background-color: #FF9604;
+}
+.second-section{
+    height: 450px;
+    width: 100%;
+    /* background-color: #FF9604; */
+    display: flex;
+}
+.second-section.left-img-container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    
+    
+}
+.left-img-container{
+    margin-left: 120px;
+}
+.shake-heaven-is{
+    width: 600px;
+    height: 290px;
+    /* border: 2px solid black; */
+    margin: 73px;
+    
+    
+}
+h2{
+    font-family: 'Quicksand'; 
+    padding: 20px;
+    font-size: 42px;
+}
+.para2{
+    font-family: Quicksand;
+    size: 16px;
+    padding: 20px;
+}
+h3{
+    padding: 20px;
+}
+.happy-palace-container{
+    height: 726px;
+    width: 100%;
+    /* border: 1px solid black; */
+    
+}
+.happy-palace{
+    height: 626px;
+    width: 1200px;
+    background-color: #FFE8E9;
+    border-radius: 20px;
+    margin: 50px;
+    margin-left: 10%;
+    text-align: center;
+    
+    
+}
+h4{
+   font-size: 42px;
+   font-family: Quicksand;
+   
+}
+.happy-palace-para{
+        width: 500px;
+        height: 144px;
+        margin: 100px;
+        margin-left: 350px;
+        margin-top: 100px;
+        /* border: 2px solid black; */
+        font-family: Quicksand;
+        
+}
+.happy-icons{
+     width: 840px;
+    height: 222px;
+    /* border: 2px solid black; */
+    margin-left: 180px;
+    display: flex; 
+    justify-content: space-evenly;
+   
+}
+.working{
+    width: 200px;
+    height: 222px;
+    /* border: 2px solid black; */
+    /* display: flex; */
+}
+.menu{
+    width: 200px;
+    height: 222px;
+    /* border: 2px solid black; */
+    /* display: flex; */
+}
+.service{
+    width: 200px;
+    height: 222px;
+    /* border: 2px solid black; */
+    /* display: flex; */
+}
+.work-img{
+    margin-left: 74px;
+    margin-right: 74px;
+    size: 60px;
+}
+.menu-img{
+    margin-left: 74px;
+    margin-right: 74px;
+}
+.service-img{
+    margin-left: 74px;
+    margin-right: 74px;
+}
+.icon-heading{
+    font-family: Quicksand, bold;
+    font-size: large;
+    margin: 20px;
+}
+.para6{
+    margin: 20px;
+}
+.mouth-watering-container{
+    height: 700px;
+    width: 100%;
+    border: 2px solid black;
+    
+}
+.mouth-watering-heading{
+    font-family: Quicksand, bold;
+    font-size: 42px;
+    margin-left: 40%;
+}
+.fruit-main{
+    display: flex;
+    height: 360px;
+    width: 100%;
+    margin: 20px;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.div1{
+    width: 257px;
+    height: 360px;
+    
+    border: 2px solid black;
+    
+}
+.fruit-img{
+    
+    
+}
